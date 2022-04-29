@@ -120,7 +120,8 @@ class NavigationBar extends Component {
                   />
                 </ContactIcons>
                 <ContactNote color={textColor}>
-                  Enjoy! Now to see your channels and recommendations!
+                  Enjoy! Now to see your channels and recommendations! Created
+                  By<span style={{color: '#1556bf'}}> Abdul Hafeez Shaik.</span>
                 </ContactNote>
               </ContactInfo>
             </NavigationLgContainer>
